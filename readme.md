@@ -9,6 +9,7 @@ This code was written by Nat Penn at the Technical University of Dortmund to ana
 
 The "data" folder should include one folder for each full measurement titled "YYYY-MM-DD_LifetimeHistogram". Each of these folders should include the ASCII data of the histograms from SymPhoTime 64 titled "FLIM_1", numbers in ascending order. The csv should be titled "YYYY-MM-DD_data.csv" with the first line
 > heatbath,thermometer,tau_1,tau_2
+
 and the following lines with the temperature and fit data.
 
 ## Scripts (updated 20 Aug 2025)
